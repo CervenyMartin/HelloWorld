@@ -1,0 +1,10 @@
+CO JE POTŘEBA UDĚLAT, ABY ROBOT SPATŘIL SVĚTLO SVĚTA
+
+- musí se navhnout konstrukce robota
+- napsat software
+- začít s testováním
+- dolatit chyby
+- naplánovat sériová výroba
+- zařídit reklama
+- sehnat počáteční investici (domluva se sponzory / půjčka ...)
+- prodej
