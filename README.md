@@ -25,3 +25,6 @@ Náklady na výrobu robota by neměly být nijak vysoké. Zvláště, když bude
 Myslím si, že by se nakonec mohl robot prodávat jako stavebnice, neboť by jeho sestavení nemělo být nijak náročné.
 
 Celkové náklady na výrobu by tedy měly být kolem 1000 Kč.
+
+Ukázka pokročilejší verze balancujícího robota od Boston Dynamics’.
+![](bostonDynamicsBalanceRobot.jpg)
